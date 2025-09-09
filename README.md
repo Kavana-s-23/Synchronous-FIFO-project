@@ -2,4 +2,6 @@ A synchronous FIFO (First-In-First-Out) is a type of data buffer used in digital
 This project provides a synthesizable Verilog implementation of a Synchronous FIFO (First-In, First-Out) memory buffer, along with a comprehensive testbench for verification.
 
 // Code: Verilog
+
+
 // Tool used: Vivado
